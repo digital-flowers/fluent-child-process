@@ -1,6 +1,6 @@
 {
   "name": "fluent-child-process",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fluent Node.js API to handle child processes and run background applications for nodejs inspired from the amazing fluent-ffmpeg Node.js module.",
   "keywords": [
     "child_process",
